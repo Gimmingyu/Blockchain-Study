@@ -277,3 +277,5 @@ Livepeer 및 비디오 스트리밍을 쉽게 통합할 수 있다.
 [영상 인코딩과 트랜스코딩](https://www.lonelyplanit.com/6)
 
 [라이브피어](https://livepeer.org/ko/primer)
+
+[LINE의 트랜스코딩](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
