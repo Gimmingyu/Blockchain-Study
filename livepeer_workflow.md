@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="livestreamworkflow.png" />
+<img src="asset/livestreamworkflow.png" />
 
 <br />
 
@@ -15,7 +15,7 @@
 <br />
 
 
-<img src="multistreamworkflow.png"  />
+<img src="asset/multistreamworkflow.png"  />
 
 <br />
 
@@ -23,7 +23,7 @@
 
 <br />
 
-<img src="ondemandworkflow.png" />
+<img src="asset/ondemandworkflow.png" />
 
 <br />
 
@@ -31,6 +31,6 @@
 
 <br />
 
-<img src="mintworkflow.png" />
+<img src="asset/mintworkflow.png" />
 
 <br />

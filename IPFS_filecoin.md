@@ -59,7 +59,7 @@ IPFS 웹이 원활하게 운영되기 위해서는 노드들이 파일을 저장
 
 <br />
 
-<img src="Filecoin_market.png" />
+<img src="asset/Filecoin_market.png" />
 
 <br />
 

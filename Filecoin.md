@@ -31,7 +31,7 @@ DSN은 Decentralized Storage Network의 약자로, Filecoin이 활용되는 네�
 
 <br />
 
-<img src="filecoin DSN.png" />
+<img src="asset/filecoin DSN.png" />
 
 <br />
 
